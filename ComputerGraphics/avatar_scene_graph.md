@@ -1,6 +1,4 @@
-Avatar Scene Graph
-=============
-# Scene Graph
+#Avatar Scene Graph
 
 Scene
 └── avatar (Group)
@@ -40,3 +38,4 @@ Scene
     │   │   │       └── toe4 (Mesh)
     └── rightLeg (Group)
         └── (leftLeg와 동일 구조)
+
